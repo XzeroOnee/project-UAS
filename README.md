@@ -38,13 +38,13 @@ def input_pembelian(daftar_harga):
     
     return items
 ```
-1. while True:: Perulangan tak terbatas dimulai. Ini berarti program akan terus berjalan selama kondisi True.
-2. Menampilkan Daftar Barang: Program menampilkan daftar barang beserta harganya kepada pengguna menggunakan perulangan for.
-3. Meminta Pengguna Memilih Barang: Pengguna diminta memilih nomor barang yang ingin dibeli atau memasukkan '0' untuk selesai.
-4. Penghentian Program: Jika pengguna memasukkan '0', program keluar dari perulangan dengan break.
-5. Penanganan Kesalahan: Menggunakan blok try-except untuk menangani kesalahan jika pengguna memasukkan input yang tidak valid.
-6. Menambahkan Pembelian ke List items: Jika input valid, informasi barang dan jumlahnya ditambahkan ke dalam list items.
-7. Mengembalikan List items: Setelah pengguna selesai memilih barang, list items yang berisi rincian pembelian dikembalikan.
+1. **while True:** :Perulangan tak terbatas dimulai. Ini berarti program akan terus berjalan selama kondisi **True**.
+2. **Menampilkan Daftar Barang:** Program menampilkan daftar barang beserta harganya kepada pengguna menggunakan perulangan **for**.
+3. **Meminta Pengguna Memilih Barang:** Pengguna diminta memilih nomor barang yang ingin dibeli atau memasukkan '0' untuk selesai.
+4. **Penghentian Program:** Jika pengguna memasukkan '0', program keluar dari perulangan dengan **break**.
+5. **Penanganan Kesalahan:** Menggunakan blok **try-except** untuk menangani kesalahan jika pengguna memasukkan input yang tidak valid.
+6. **Menambahkan Pembelian ke List 'items':** Jika input valid, informasi barang dan jumlahnya ditambahkan ke dalam list **items**.
+7. **Mengembalikan List 'items':** Setelah pengguna selesai memilih barang, list **items** yang berisi rincian pembelian dikembalikan.
 
 ### 2. Fungsi generate_struk(items, uang_pembayaran)
 
