@@ -1,2 +1,8 @@
 # project-UAS
-Membuat Kodingan Struk Kasir
+## Membuat Kodingan Struk Kasir
+
+## CODE
+![gambar]()
+
+## Output
+![gambar]()
